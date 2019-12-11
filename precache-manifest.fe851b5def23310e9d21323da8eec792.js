@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eb117710beb24fa9cea5f6a1e65e1e4d",
+    "revision": "526143bc25a942dfec64df0e73429153",
     "url": "/navette.react/index.html"
   },
   {
-    "revision": "4d707e1c577ab3bc3507",
+    "revision": "8489191d79ee4cfc9465",
     "url": "/navette.react/static/css/main.7e1be9b5.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/navette.react/static/js/2.edccbc4d.chunk.js.LICENSE"
   },
   {
-    "revision": "4d707e1c577ab3bc3507",
-    "url": "/navette.react/static/js/main.c534b3df.chunk.js"
+    "revision": "8489191d79ee4cfc9465",
+    "url": "/navette.react/static/js/main.ebaf9f9a.chunk.js"
   },
   {
     "revision": "abd55baf14735f0b3fdb",

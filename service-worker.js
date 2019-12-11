@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/navette.react/precache-manifest.dbe2f2b8e109434d8d11d4c0c0cf81ad.js"
+  "/navette.react/precache-manifest.fe851b5def23310e9d21323da8eec792.js"
 );
 
 self.addEventListener('message', (event) => {
