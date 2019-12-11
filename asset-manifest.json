@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/navette.react/static/css/main.7e1be9b5.chunk.css",
+    "main.js": "/navette.react/static/js/main.c534b3df.chunk.js",
+    "main.js.map": "/navette.react/static/js/main.c534b3df.chunk.js.map",
+    "runtime-main.js": "/navette.react/static/js/runtime-main.b5cdc5b8.js",
+    "runtime-main.js.map": "/navette.react/static/js/runtime-main.b5cdc5b8.js.map",
+    "static/js/2.edccbc4d.chunk.js": "/navette.react/static/js/2.edccbc4d.chunk.js",
+    "static/js/2.edccbc4d.chunk.js.map": "/navette.react/static/js/2.edccbc4d.chunk.js.map",
+    "index.html": "/navette.react/index.html",
+    "precache-manifest.dbe2f2b8e109434d8d11d4c0c0cf81ad.js": "/navette.react/precache-manifest.dbe2f2b8e109434d8d11d4c0c0cf81ad.js",
+    "service-worker.js": "/navette.react/service-worker.js",
+    "static/css/main.7e1be9b5.chunk.css.map": "/navette.react/static/css/main.7e1be9b5.chunk.css.map",
+    "static/js/2.edccbc4d.chunk.js.LICENSE": "/navette.react/static/js/2.edccbc4d.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5cdc5b8.js",
+    "static/js/2.edccbc4d.chunk.js",
+    "static/css/main.7e1be9b5.chunk.css",
+    "static/js/main.c534b3df.chunk.js"
+  ]
+}
